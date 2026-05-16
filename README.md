@@ -1,6 +1,6 @@
 # Codex Goals Prompts
 
-[![skills.sh](https://skills.sh/b/your-github-user/codex-goals-prompts)](https://skills.sh/your-github-user/codex-goals-prompts)
+[![skills.sh](https://skills.sh/b/strhodler/codex-goals-prompts)](https://skills.sh/strhodler/codex-goals-prompts)
 
 A practical skill for writing strong Codex `/goal` prompts.
 
@@ -42,10 +42,8 @@ This skill helps agents draft Goals that answer:
 After publishing this repository on GitHub, install it with the `skills` CLI:
 
 ```bash
-npx skills add your-github-user/codex-goals-prompts
+npx skills add strhodler/codex-goals-prompts
 ```
-
-Replace `your-github-user` with your GitHub username or organization.
 
 > [!NOTE]
 > Skills appear on skills.sh automatically after users install them with `npx skills add <owner>/<repo>`. There is no separate upload command.
@@ -128,10 +126,14 @@ Strong:
 4. Install it once with:
 
 ```bash
-npx skills add your-github-user/codex-goals-prompts
+npx skills add strhodler/codex-goals-prompts
 ```
 
 After installation telemetry is collected, skills.sh can list the skill automatically and rank it by aggregate installs.
+
+## Official Documentation
+
+- [OpenAI Codex: Follow a goal](https://developers.openai.com/codex/use-cases/follow-goals)
 
 ## Credits
 
